@@ -40,3 +40,8 @@
 # 정오표
 ---
 현재까지의 오탈자는 모두 [한빛미디어 처음 시작하는 R 데이터 분석](http://www.hanbit.co.kr/store/books/look.php?p_code=B6952054209) 하단에 있습니다.
+
+
+##
+
+https://newstars.tistory.com/445
